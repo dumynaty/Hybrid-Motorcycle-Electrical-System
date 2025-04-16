@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Fritzing (https://fritzing.org/) -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" height="7.6199999mm" width="7.6200004mm" id="svg55541" gorn="0" y="0in" viewBox="0 0 21.6 21.59999" x="0in" >
+    <desc >
+        <referenceFile >bornier_CY142R_3 pin_schéma.svg</referenceFile>
+    </desc>
+    <defs id="defs55545" />
+    <g transform="translate(0.52499858,7.1999982)" >
+        <g >
+            <g >
+                <g id="g55539" gorn="0.2.0.0.0" partID="855205130" >
+                    <g id="schematic" gorn="0.2.0.0.0.0" style="display:inline" >
+                        <line fill="none" y2="-3.5237036" x2="13.812184" id="connector0pin" gorn="0.2.0.0.0.0.0" style="display:inline" x1="0.46218333" stroke="#787878" stroke-linejoin="round" y1="-3.5237036" stroke-width="0.699999"  stroke-linecap="round"/>
+                        <g fill="none" height="0.0014" id="connector0terminal" width="0.0281" style="display:inline" gorn="0.2.0.0.0.0.1" y="3.9493" stroke="none" x="10.2609" stroke-width="0" />
+                        <line fill="none" y2="-3.5237036" x2="13.812184" id="connector4pin" gorn="0.2.0.0.0.0.2" style="display:inline" x1="0.46218333" stroke="#787878" stroke-linejoin="round" y1="-3.5237036" stroke-width="0.699999"  stroke-linecap="round"/>
+                        <g fill="none" height="0.0014" id="connector4terminal" width="0.0281" style="display:inline" gorn="0.2.0.0.0.0.3" y="3.9493" stroke="none" x="10.2609" stroke-width="0" />
+                        <circle fill="none" id="circle55532" style="display:inline" gorn="0.2.0.0.0.0.4" cx="17.412184" stroke="#787878" stroke-width="0.699999"  cy="-3.5237036" r="2.9000001"/>
+                        <line fill="none" y2="3.6762967" x2="13.812184" id="connector1pin" gorn="0.2.0.0.0.0.5" style="display:inline" x1="0.46218333" stroke="#787878" stroke-linejoin="round" y1="3.6762967" stroke-width="0.699999"  stroke-linecap="round"/>
+                        <g height="0.699999" id="connector1terminal" gorn="0.2.0.0.0.0.6" width="0" style="display:inline" y="10.45" x="0" />
+                        <line fill="none" y2="3.6762967" x2="13.812184" id="connector5pin" gorn="0.2.0.0.0.0.7" style="display:inline" x1="0.46218333" stroke="#787878" stroke-linejoin="round" y1="3.6762967" stroke-width="0.699999"  stroke-linecap="round"/>
+                        <g height="0.699999" id="connector5terminal" gorn="0.2.0.0.0.0.8" width="0" y="10.45" x="0" />
+                        <circle fill="none" id="circle55536" gorn="0.2.0.0.0.0.9" cx="17.412184" stroke="#787878" stroke-width="0.699999"  cy="3.6762967" r="2.9000001"/>
+                        <line fill="none" y2="10.876297" x2="13.980461" id="connector2pin" gorn="0.2.0.0.0.0.10" style="display:inline" x1="0.63045973" stroke="#787878" stroke-linejoin="round" y1="10.876297" stroke-width="0.699999"  stroke-linecap="round"/>
+                        <g transform="translate(0.16827646,7.2000003)" >
+                            <g >
+                                <g >
+                                    <g height="0.699999" id="connector2terminal" gorn="0.2.0.0.0.0.11.0.0.0" width="0" style="display:inline" y="10.45" x="0" />
+                                </g>
+                            </g>
+                        </g>
+                        <line fill="none" y2="10.876297" x2="13.980461" id="connector6pin" gorn="0.2.0.0.0.0.12" style="display:inline" x1="0.63045973" stroke="#787878" stroke-linejoin="round" y1="10.876297" stroke-width="0.699999"  stroke-linecap="round"/>
+                        <g transform="translate(0.16827646,7.2000003)" >
+                            <g >
+                                <g >
+                                    <g height="0.699999" id="connector6terminal" gorn="0.2.0.0.0.0.13.0.0.0" width="0" y="10.45" x="0" />
+                                </g>
+                            </g>
+                        </g>
+                        <circle fill="none" id="circle85683" gorn="0.2.0.0.0.0.14" cx="17.58046" stroke="#787878" stroke-width="0.699999"  cy="10.876297" r="2.9000001"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

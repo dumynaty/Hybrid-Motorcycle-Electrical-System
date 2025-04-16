@@ -1,0 +1,30 @@
+Main Electric Motor: MY1016Z350W36V 36V 350W with reducer, torque 9.47Nm
+Battery: Gares 36V 5800mAh battery with BMS and XT60 connectors
+Development Board: Arduino Mega
+Clutch Cable Motor: JCY-370 worm gear motor 12V
+Pulley for JCY-370 Motor: 3D printed pulley
+Gear Shift Cable Motor: MG996R 180-degree servo motor, 13kg·cm torque
+Main Electric Motor Driver: 10-55V 60A motor driver
+Gear Motor Driver: L298N driver
+Throttle Lever: Simple e-bike throttle
+Digital Potentiometer: X9C103S
+Magnetic Sensor Module: Hall KY-003 + Magnet 20x10x5mm
+Accelerometer and Gyroscope Module: MPU6050
+Buck Voltage Regulator Module: Input voltage 8-60V, output 1-36V, 200W, 15A Max (with fan)
+Buck Voltage Regulator Module: Input 4-35V, output 1.23-30V, 3A Max
+Boost Voltage Regulator Module: Input 8.5-50VDC 400W, output 10-60VDC
+Electric E-Switch: SSR40DD 220V 40A
+Current Sensor Module: ACS712 30A
+Voltage Sensor Module: SV 0-25V
+Arduino + ESP32 Power Supply: UPS boost converter from 3.7V lithium battery to 9V with charging function
+Backup Battery: Samsung Li-Ion 18650 battery 3.7V 2600mAh
+Arduino Power Connector: Barrel connector
+Bluetooth Module: ESP32 DevKit1 NodeMCU 30 Pins used for Bluetooth communication
+Bluetooth Module Power Supply: LM2596 voltage regulator module
+Cooling Components: Fans
+Battery Circuit Switch: Rocker switch 30A
+UPS Switch: Simple button
+Charging Cable: Standard 42V power cable
+Common Terminal Blocks: Wago 3-pin and 5-pin
+Conductors: Wires of various sizes
+Internal Combustion Engine Output: Charging relay (magneto + rectifier & 12V voltage regulator)

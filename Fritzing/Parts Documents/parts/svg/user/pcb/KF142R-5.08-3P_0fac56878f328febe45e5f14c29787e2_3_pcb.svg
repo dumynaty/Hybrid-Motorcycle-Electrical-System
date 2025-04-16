@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Fritzing (https://fritzing.org/) -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" height="18.288mm" width="14.508mm" id="svg75" gorn="0" y="0in" viewBox="0 0 41.125042 51.839983" x="0in" >
+    <desc >
+        <referenceFile >bornier_CY142R_3 pin_circuit imprimé.svg</referenceFile>
+    </desc>
+    <defs id="defs79" />
+    <g transform="translate(5.4425179,22.820309)" >
+        <g >
+            <g >
+                <g id="g37" gorn="0.2.0.0.0" partID="57910" >
+                    <g id="copper0" gorn="0.2.0.0.0.0" >
+                        <circle fill="none" id="connector1pin" gorn="0.2.0.0.0.0.0" cx="4.3200002" stroke="#ffbf00" stroke-width="1.44"  cy="4.3200002" r="1.98"/>
+                        <circle fill="none" id="connector5pin" gorn="0.2.0.0.0.0.1" cx="25.92" stroke="#ffbf00" stroke-width="1.44"  cy="4.3200002" r="1.98"/>
+                        <circle fill="none" id="connector2pin" gorn="0.2.0.0.0.0.2" cx="4.3200002" stroke="#ffbf00" stroke-width="1.44"  cy="18.719999" r="1.98"/>
+                        <circle fill="none" id="connector6pin" gorn="0.2.0.0.0.0.3" cx="25.92" stroke="#ffbf00" stroke-width="1.44"  cy="18.719999" r="1.98"/>
+                        <circle fill="none" id="connector0pin" gorn="0.2.0.0.0.0.4" cx="4.3200002" stroke="#ffbf00" stroke-width="1.44"  cy="-10.079995" r="1.98"/>
+                        <circle fill="none" id="connector4pin" gorn="0.2.0.0.0.0.5" cx="25.92" stroke="#ffbf00" stroke-width="1.44"  cy="-10.079995" r="1.98"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g transform="translate(0,-1.4420131)" >
+        <g >
+            <g >
+                <g id="g73" gorn="0.3.0.0.0" partID="57911" >
+                    <g transform="matrix(1.2612612,0,0,0.93870797,-0.1881064,22.829833)" >
+                        <g >
+                            <g >
+                                <g id="silkscreen" gorn="0.3.0.0.0.0.0.0.0" >
+                                    <rect fill="none" height="7.6701164" style="stroke-dasharray:none;" id="rect56632" width="31.464563" gorn="0.3.0.0.0.0.0.0.0.0" y="-22.138094" stroke-opacity="1" x="0.71999991" stroke="#ffffff" stroke-width="0.719018" />
+                                    <rect fill="none" height="46.141483" style="stroke-dasharray:none;" id="rect77798" width="31.464565" gorn="0.3.0.0.0.0.0.0.0.1" y="-14.467978" stroke-opacity="1" x="0.7199986" stroke="#ffffff" stroke-width="0.719018" />
+                                    <g transform="translate(1.4058006,1.4810508)" >
+                                        <g >
+                                            <g >
+                                                <g id="g1434" gorn="0.3.0.0.0.0.0.0.0.2.0.0.0" >
+                                                    <path fill="none" style="stroke-dasharray:none;" d="m 10.536528,4.7749807 h 9.019906" id="path1410" gorn="0.3.0.0.0.0.0.0.0.2.0.0.0.0" stroke-opacity="1" stroke="#ffffff" stroke-width="1.00063"  fill-opacity="0.905482"/>
+                                                    <path fill="none" style="stroke-dasharray:none;" d="m 17.461103,2.6397372 2.095331,2.1352435 -2.164982,2.1245136" id="path1429" gorn="0.3.0.0.0.0.0.0.0.2.0.0.0.1" stroke-opacity="1" stroke="#ffffff" stroke-width="1.00063"  fill-opacity="0.905482"/>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

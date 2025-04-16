@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Fritzing (https://fritzing.org/) -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" height="4.3179998mm" width="7.6199999mm" id="svg4407" gorn="0" y="0in" viewBox="0 0 21.6 12.239994" x="0in" >
+    <desc >
+        <referenceFile >bornier_CY142R_3 pin_bb.svg</referenceFile>
+    </desc>
+    <defs id="defs4411" />
+    <g transform="translate(-1.4390331e-6,0.00149313)" >
+        <g >
+            <g id="g4405" gorn="0.2.0.0" partID="855204180" >
+                <g id="breadboard" style="display:inline" gorn="0.2.0.0.0" >
+                    <g transform="scale(1.4999997,1)" >
+                        <g >
+                            <polygon fill="#3c8925" id="background" style="display:inline" gorn="0.2.0.0.0.0.0.0"  points="0.287157,5.21324 0,5.21324 0,11.3477 14.1129,11.3477 14.1129,5.21324 14.4,5.21324 14.4,2.87631 14.1129,2.87631 14.1129,0 0,0 0,2.87631 0.287157,2.87631 "/>
+                        </g>
+                    </g>
+                    <rect fill="#296612" height="5.14644" id="lowerrect" width="21.599995" style="display:inline" gorn="0.2.0.0.0.1" y="6.2002602" x="0" stroke-width="0" />
+                    <g transform="matrix(1.311481,0,0,-0.94832162,-2.593314,7.5259637)" >
+                        <g >
+                            <g fill="#ff7600" id="g4315" style="display:inline;stroke-dasharray:none;" gorn="0.2.0.0.0.2.0.0" stroke-opacity="1" stroke="none" stroke-width="0.998924"  fill-opacity="1">
+                                <g fill="#ff7600" id="plus0" style="stroke-dasharray:none;" gorn="0.2.0.0.0.2.0.0.0" stroke-opacity="1" stroke="none" stroke-width="0.998924"  fill-opacity="1"/>
+                                <rect fill="#ff7600" height="2.3521028" style="stroke-dasharray:none;" id="rect6620" width="3.488512" gorn="0.2.0.0.0.2.0.0.1" y="1.5036334" stroke-opacity="1" x="2.1935353" stroke="none" stroke-width="0.998924"  fill-opacity="1"/>
+                                <path fill="none" style="stroke-dasharray:none;" d="M 5.4275931,3.8557361 V 6.009417" id="path28133" gorn="0.2.0.0.0.2.0.0.2" stroke-opacity="1" stroke="#ff7600" stroke-width="0.508358"  fill-opacity="1"/>
+                                <path fill="none" style="stroke-dasharray:none;" d="M 2.6818063,2.1004587 H 5.6820474" id="path41686" gorn="0.2.0.0.0.2.0.0.3" stroke-opacity="1" stroke="#733500" stroke-width="0.508358"  fill-opacity="1"/>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="g4342" style="display:inline;stroke-dasharray:none" gorn="0.2.0.0.0.3" stroke-width="1.008" >
+                        <g id="maul0" style="stroke-dasharray:none" gorn="0.2.0.0.0.3.0" stroke-width="1.008" >
+                            <rect fill="#296612" height="3.8065" width="4.5749202" id="rect4323" style="stroke-dasharray:none" gorn="0.2.0.0.0.3.0.0" y="6.9430099" x="1.24271" stroke-width="1.008"  fill-opacity="1"/>
+                            <ellipse fill="#383838" id="ellipse4329" style="stroke-dasharray:none" gorn="0.2.0.0.0.3.0.1" cx="3.5291901" stroke-width="1.008"  cy="9.06458" ry="1.13457" rx="1.52693"/>
+                            <rect fill="#8c8c8c" height="1.50047" width="2.0522399" id="rect4339" style="stroke-dasharray:none" gorn="0.2.0.0.0.3.0.2" y="10.7356" x="2.50405" stroke-width="1.008" />
+                        </g>
+                    </g>
+                    <rect fill="none" height="4.3260798" id="connector2pin" width="2.26969" style="display:inline" gorn="0.2.0.0.0.4" y="7.9109302" x="2.46876" stroke-width="0" />
+                    <rect fill="none" height="4.3260798" id="connector6pin" width="2.26969" style="display:inline" gorn="0.2.0.0.0.5" y="7.9109302" x="2.46876" stroke-width="0" />
+                    <g transform="matrix(1.311481,0,0,-0.59021413,5.0852436,6.9086314)" >
+                        <g >
+                            <g id="g4374" style="display:inline;" gorn="0.2.0.0.0.6.0.0" stroke="none" >
+                                <g id="plus1" gorn="0.2.0.0.0.6.0.0.0" stroke="none" />
+                                <rect fill="#ff7600" height="3.7792213" id="rect6620-7" width="3.488512" gorn="0.2.0.0.0.6.0.0.1" y="1.3675264" stroke-opacity="1" x="1.7962145" stroke="none" stroke-width="1.44"  fill-opacity="1"/>
+                                <path fill="#ff7600" style="stroke-dasharray:none;" d="M 5.0300646,5.1467477 V 8.6095233" id="path28133-1" gorn="0.2.0.0.0.6.0.0.2" stroke-opacity="1" stroke="#ff7600" stroke-width="0.508358"  fill-opacity="1"/>
+                                <path fill="none" style="stroke-dasharray:none;" d="M 2.2846927,2.2699064 H 5.2847265" id="path41686-7" gorn="0.2.0.0.0.6.0.0.3" stroke-opacity="1" stroke="#733500" stroke-width="0.805477"  fill-opacity="1"/>
+                            </g>
+                        </g>
+                    </g>
+                    <g transform="translate(7.2)" >
+                        <g >
+                            <g id="g4401" style="display:inline" gorn="0.2.0.0.0.7.0.0" >
+                                <g id="maul1" gorn="0.2.0.0.0.7.0.0.0" >
+                                    <ellipse fill="#383838" id="ellipse4388" gorn="0.2.0.0.0.7.0.0.0.0" cx="3.5291901" stroke-width="0"  cy="9.06458" ry="1.13457" rx="1.52693"/>
+                                    <rect fill="#8c8c8c" height="1.50047" width="2.0522399" id="rect4398" gorn="0.2.0.0.0.7.0.0.0.1" y="10.7356" x="2.50405" stroke-width="0" />
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <rect fill="none" height="4.3260798" id="connector1pin" width="2.26969" style="display:inline" gorn="0.2.0.0.0.8" y="7.9109302" x="9.6687603" stroke-width="0" />
+                    <rect fill="none" height="4.3260798" id="connector5pin" width="2.26969" style="display:inline" gorn="0.2.0.0.0.9" y="7.9109302" x="9.6687603" stroke-width="0" />
+                    <rect fill="#3c8925" height="6.2002602" style="stroke-dasharray:none;" id="rect73602" width="1.9842516" gorn="0.2.0.0.0.10" y="2.7755576e-17" stroke-opacity="1" x="19.615744" stroke="#0c3705" stroke-width="0.0261903"  fill-opacity="1"/>
+                    <rect fill="#296612" height="5.1396003" style="stroke-dasharray:none;" id="rect74330" width="1.9842516" gorn="0.2.0.0.0.11" y="6.20368" stroke-opacity="1" x="19.615742" stroke="#0c3705" stroke-width="0.0238452"  fill-opacity="1"/>
+                    <g transform="matrix(1.311481,0,0,-0.59021413,12.285242,6.9086314)" >
+                        <g >
+                            <g id="g95483" style="display:inline;" gorn="0.2.0.0.0.12.0.0" stroke="none" >
+                                <g id="g95475" gorn="0.2.0.0.0.12.0.0.0" stroke="none" />
+                                <rect fill="#ff7600" height="3.7792213" id="rect95477" width="3.488512" gorn="0.2.0.0.0.12.0.0.1" y="1.3675264" stroke-opacity="1" x="1.7962145" stroke="none" stroke-width="1.44"  fill-opacity="1"/>
+                                <path fill="#ff7600" style="stroke-dasharray:none;" d="M 5.0300646,5.1467477 V 8.6095233" id="path95479" gorn="0.2.0.0.0.12.0.0.2" stroke-opacity="1" stroke="#ff7600" stroke-width="0.508358"  fill-opacity="1"/>
+                                <path fill="none" style="stroke-dasharray:none;" d="M 2.2846927,2.2699064 H 5.2847265" id="path95481" gorn="0.2.0.0.0.12.0.0.3" stroke-opacity="1" stroke="#733500" stroke-width="0.805477"  fill-opacity="1"/>
+                            </g>
+                        </g>
+                    </g>
+                    <g transform="translate(14.398998)" >
+                        <g >
+                            <g id="g95491" style="display:inline" gorn="0.2.0.0.0.13.0.0" >
+                                <g id="g95489" gorn="0.2.0.0.0.13.0.0.0" >
+                                    <ellipse fill="#383838" id="ellipse95485" gorn="0.2.0.0.0.13.0.0.0.0" cx="3.5291901" stroke-width="0"  cy="9.06458" ry="1.13457" rx="1.52693"/>
+                                    <rect fill="#8c8c8c" height="1.50047" width="2.0522399" id="rect95487" gorn="0.2.0.0.0.13.0.0.0.1" y="10.7356" x="2.50405" stroke-width="0" />
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <rect fill="none" height="4.3260798" id="connector0pin" width="2.26969" style="display:inline" gorn="0.2.0.0.0.14" y="7.9109302" x="16.868975" stroke-width="0" />
+                    <rect fill="none" height="4.3260798" id="connector4pin" width="2.26969" style="display:inline" gorn="0.2.0.0.0.15" y="7.9109302" x="16.868975" stroke-width="0" />
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

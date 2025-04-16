@@ -1,0 +1,37 @@
+	Initial Concept
+
+This project aims to convert a regular pedal bicycle into a hybrid vehicle by integrating an 80cc combustion engine and an electric motor, allowing it to switch between them automatically based on wheel RPM data from a sensor. This optimizes energy consumption and performance in various road conditions.
+
+Initially, an 80cc engine was planned, but due to reliability issues, it was replaced with a more robust 125cc Lifan engine. This engine includes a magneto that supplies 12V for charging and powering other components. The throttle and clutch require strong cables, so more powerful motors were chosen to control them.
+The electric motor chosen is a 350W, 9.47Nm unit, controlled by a dedicated driver and a throttle handle connected to an Arduino Mega (upgraded from Uno for more complex functionality). The vehicle uses sensors (RPM and gyroscope) for automatic motor switching and safety. If the rider falls, the gyroscope cuts off power to the motors.
+A UPS module (with a 18650 battery) ensures the Arduino remains powered at all times. An ESP32 module sends real-time data via Bluetooth to a smartphone — including motor RPM, battery status, etc.
+Charging the batteries is managed using voltage regulators, e-switch modules, and safety measures (to prevent reverse current). The system is a carefully engineered blend of electrical and mechanical integration.
+
+
+	Electrical Architecture
+	
+Key considerations in system architecture include:
+Selecting the main electric motor, batteries, and microcontroller
+Choosing motors for clutch and throttle cable control
+Selecting appropriate motor drivers
+Integrating a throttle (potentiometer-based)
+RPM and tilt (gyro) sensors for control and safety
+Voltage regulators (buck/boost) for component power needs
+Modules for current monitoring and battery charging
+UPS backup for Arduino
+Wiring with proper connectors and terminal blocks
+
+
+	Requirements Analysis & Hierarchy
+	
+The development process prioritized the following:
+Correct selection and sizing of the main electric and combustion motors
+Appropriate battery selection for power and autonomy
+A microcontroller (Arduino Mega) to manage data and control flow
+Motor drivers suited for the system's power requirements
+Ergonomic speed throttle compatible with the handlebar
+Sensors (RPM, gyroscope) for automatic control and safety
+Voltage regulation modules to power components safely
+Battery charging system design using boost converters, e-switches, and safety diodes
+Reliable wiring and connectors to ensure stable power delivery
+Testing and tuning will follow the schematic to ensure smooth operation.

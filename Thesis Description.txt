@@ -1,0 +1,28 @@
+This bachelor's thesis focuses on designing a hybrid system for a motorcycle, combining an electric motor with a combustion engine to enhance energy efficiency and reduce emissions. The project addresses the global shift toward sustainable transport by offering a transitional solution between conventional and fully electric vehicles.
+
+Main Goal:
+To build an integrated system that automatically switches between electric and thermal propulsion based on real-time usage, ensuring efficient energy use, safe operation, and smooth performance.
+
+Key Steps:
+
+Identify and classify main and secondary components (motors, battery, driver, etc.).
+Design the system based on vehicle weight and power requirements.
+Use simulations, software tools, and physical testing for validation.
+
+Outcomes:
+A working hybrid prototype for small vehicles.
+Lower emissions, better energy performance.
+Demonstrated integration feasibility of hybrid tech in motorcycles.
+
+Limitations:
+Testing was limited to controlled environments.
+Real-world performance still to be evaluated.
+
+Impact:
+
+Environmental: Reduced carbon footprint and air pollution.
+Economic: Lower user costs, potential for market expansion.
+Scientific: Contributes to the knowledge base on compact hybrid systems.
+
+Originality:
+Innovative integration approach tailored for motorcycles, offering a valuable framework for future development in green mobility tech.

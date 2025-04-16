@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module fritzingVersion="0.9.9b.." icon="Mine.png">
+    <title>My Parts</title>
+    <instances>
+        <instance moduleIdRef="Voltage-Sensor-25V_1" modelIndex="43457" path="C:/Users/Legion/Documents/Fritzing/parts/user/Voltage-Sensor-25V_1.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="LM2596 step down module_94a7640b92a35c772ce8d1bf1932fa29_2" modelIndex="46907" path="C:/Users/Legion/Documents/Fritzing/parts/user/LM2596 step down module_94a7640b92a35c772ce8d1bf1932fa29_2.fzp">
+            <views/>
+        </instance>
+    </instances>
+</module>

@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module fritzingVersion="0.9.9b.." icon="Search.png" search="diode">
+    <title>Search</title>
+    <instances>
+        <instance moduleIdRef="439632e4-b865-415e-9bda-daf63cb97dbcZenerDiodeModuleID" modelIndex="42848" path="C:/Users/Legion/Desktop/Fritzing-0.9.9.64.pc-Compiled-Build-main/fritzing-parts/core/SMD_Diode_ZEN_3-6.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="diac_db3_d93f6c1a94ffd52562268be2e62b9775_9" modelIndex="42850" path="C:/Users/Legion/Desktop/Fritzing-0.9.9.64.pc-Compiled-Build-main/fritzing-parts/core/diac_diode_db3.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-DiscreteSemi-DIODE-SOD" modelIndex="42852" path="C:/Users/Legion/Desktop/Fritzing-0.9.9.64.pc-Compiled-Build-main/fritzing-parts/core/sparkfun-discretesemi-diode-sod.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-DiscreteSemi-DIODE-ZENER-SMB" modelIndex="42854" path="C:/Users/Legion/Desktop/Fritzing-0.9.9.64.pc-Compiled-Build-main/fritzing-parts/core/sparkfun-discretesemi-diode-zener-smb.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-DiscreteSemi-DIODE-1N4148_v2" modelIndex="42856" path="C:/Users/Legion/Desktop/Fritzing-0.9.9.64.pc-Compiled-Build-main/fritzing-parts/core/sparkfun-discretesemi-diode-1n4148_v2.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="XBee-Regulated-v12" modelIndex="42858" path="C:/Users/Legion/Desktop/Fritzing-0.9.9.64.pc-Compiled-Build-main/fritzing-parts/core/XBee-Regulated-v12.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-DiscreteSemi-MMBZ27VCLT1-" modelIndex="42860" path="C:/Users/Legion/Desktop/Fritzing-0.9.9.64.pc-Compiled-Build-main/fritzing-parts/core/sparkfun-discretesemi-mmbz27vclt1-.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Rotoshield-1.0a" modelIndex="42862" path="C:/Users/Legion/Desktop/Fritzing-0.9.9.64.pc-Compiled-Build-main/fritzing-parts/core/Rotoshield-1.0a.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Sensors-QRB1114-2" modelIndex="42864" path="C:/Users/Legion/Desktop/Fritzing-0.9.9.64.pc-Compiled-Build-main/fritzing-parts/core/sparkfun-sensors-qrb1114-.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="P1000K_laydown" modelIndex="42866" path="C:/Users/Legion/Desktop/Fritzing-0.9.9.64.pc-Compiled-Build-main/fritzing-parts/core/Rectifier Diode 10A.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-DiscreteSemi-DIODE-SOT23" modelIndex="42868" path="C:/Users/Legion/Desktop/Fritzing-0.9.9.64.pc-Compiled-Build-main/fritzing-parts/core/sparkfun-discretesemi-diode-sot23.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="P1000K_standup" modelIndex="42870" path="C:/Users/Legion/Desktop/Fritzing-0.9.9.64.pc-Compiled-Build-main/fritzing-parts/core/Rectifier Diode 10A_standup_on_PCB.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-DiscreteSemi-DIODE-SMB" modelIndex="42872" path="C:/Users/Legion/Desktop/Fritzing-0.9.9.64.pc-Compiled-Build-main/fritzing-parts/core/sparkfun-discretesemi-diode-smb.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="xc307sadf951b6bdd0d67c0d2ad67eabZenerDiodeModuleID" modelIndex="42874" path="C:/Users/Legion/Desktop/Fritzing-0.9.9.64.pc-Compiled-Build-main/fritzing-parts/core/diode_zener_0_5w_3_6v_300mil.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="e92ccfe0-3e83-4646-89d9-916162578685 " modelIndex="42876" path="C:/Users/Legion/Desktop/Fritzing-0.9.9.64.pc-Compiled-Build-main/fritzing-parts/core/SMD_Diode_STK_DO.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-DiscreteSemi-DIODE-ZENER--BZT52" modelIndex="42878" path="C:/Users/Legion/Desktop/Fritzing-0.9.9.64.pc-Compiled-Build-main/fritzing-parts/core/sparkfun-discretesemi-diode-zener--bzt52.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="huzzah_esp8266" modelIndex="42880" path="C:/Users/Legion/Desktop/Fritzing-0.9.9.64.pc-Compiled-Build-main/fritzing-parts/core/huzzah_esp8266.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-DiscreteSemi-VARISTOR--0603" modelIndex="42882" path="C:/Users/Legion/Desktop/Fritzing-0.9.9.64.pc-Compiled-Build-main/fritzing-parts/core/sparkfun-discretesemi-varistor--0603.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="2d505f861194750183f944ba86c13b44_28" modelIndex="42884" path="C:/Users/Legion/Desktop/Fritzing-0.9.9.64.pc-Compiled-Build-main/fritzing-parts/core/tsop312.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-DiscreteSemi-TVS-" modelIndex="42886" path="C:/Users/Legion/Desktop/Fritzing-0.9.9.64.pc-Compiled-Build-main/fritzing-parts/core/sparkfun-discretesemi-tvs-.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-DiscreteSemi-DIODE-SMA-ALT" modelIndex="42888" path="C:/Users/Legion/Desktop/Fritzing-0.9.9.64.pc-Compiled-Build-main/fritzing-parts/core/sparkfun-discretesemi-diode-sma-alt.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="145554CBFC44diode" modelIndex="42890" path="C:/Users/Legion/Desktop/Fritzing-0.9.9.64.pc-Compiled-Build-main/fritzing-parts/core/diode_schottky_1N5817_300mil.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-DiscreteSemi-DIODE-ZENER-PTH" modelIndex="42892" path="C:/Users/Legion/Desktop/Fritzing-0.9.9.64.pc-Compiled-Build-main/fritzing-parts/core/sparkfun-discretesemi-diode-zener-pth.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-DiscreteSemi-BAV99-" modelIndex="42894" path="C:/Users/Legion/Desktop/Fritzing-0.9.9.64.pc-Compiled-Build-main/fritzing-parts/core/sparkfun-discretesemi-bav99-.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="S1133" modelIndex="42896" path="C:/Users/Legion/Desktop/Fritzing-0.9.9.64.pc-Compiled-Build-main/fritzing-parts/core/S1133_Si_Photodiode.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Fairchild_MBR745" modelIndex="42898" path="C:/Users/Legion/Desktop/Fritzing-0.9.9.64.pc-Compiled-Build-main/fritzing-parts/core/Fairchild_MBR745.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-DiscreteSemi-DIODE-SOD523" modelIndex="42900" path="C:/Users/Legion/Desktop/Fritzing-0.9.9.64.pc-Compiled-Build-main/fritzing-parts/core/sparkfun-discretesemi-diode-sod523.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-DiscreteSemi-V-REFERENCE-SMD" modelIndex="42902" path="C:/Users/Legion/Desktop/Fritzing-0.9.9.64.pc-Compiled-Build-main/fritzing-parts/core/sparkfun-discretesemi-v-reference-smd.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-DiscreteSemi-DIODE-HV_v2" modelIndex="42904" path="C:/Users/Legion/Desktop/Fritzing-0.9.9.64.pc-Compiled-Build-main/fritzing-parts/core/sparkfun-discretesemi-diode-hv_v2.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-DiscreteSemi-DIODE-SMA" modelIndex="42906" path="C:/Users/Legion/Desktop/Fritzing-0.9.9.64.pc-Compiled-Build-main/fritzing-parts/core/sparkfun-discretesemi-diode-sma.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-DiscreteSemi-DIODE-SMA-KIT" modelIndex="42908" path="C:/Users/Legion/Desktop/Fritzing-0.9.9.64.pc-Compiled-Build-main/fritzing-parts/core/sparkfun-discretesemi-diode-sma-kit.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="rectifier do-213aa" modelIndex="42910" path="C:/Users/Legion/Desktop/Fritzing-0.9.9.64.pc-Compiled-Build-main/fritzing-parts/core/SMD_Diode_REC_DOAA.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="3254CBFC44diode" modelIndex="42912" path="C:/Users/Legion/Desktop/Fritzing-0.9.9.64.pc-Compiled-Build-main/fritzing-parts/core/diode_1N4001_300mil.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="4a300fed-afa9-4e78-a643-ec209be7e3b8" modelIndex="42913" path="C:/Users/Legion/Desktop/Fritzing-0.9.9.64.pc-Compiled-Build-main/fritzing-parts/core/SMD_Diode_REC_DO.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Modkit Shield-v1a" modelIndex="42915" path="C:/Users/Legion/Desktop/Fritzing-0.9.9.64.pc-Compiled-Build-main/fritzing-parts/core/Modkit Shield-v1a.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-DiscreteSemi-VARISTOR--0402" modelIndex="42917" path="C:/Users/Legion/Desktop/Fritzing-0.9.9.64.pc-Compiled-Build-main/fritzing-parts/core/sparkfun-discretesemi-varistor--0402.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-DiscreteSemi-DIODE-PTH_v2" modelIndex="42919" path="C:/Users/Legion/Desktop/Fritzing-0.9.9.64.pc-Compiled-Build-main/fritzing-parts/core/sparkfun-discretesemi-diode-pth_v2.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Sensors-DCM01-" modelIndex="42921" path="C:/Users/Legion/Desktop/Fritzing-0.9.9.64.pc-Compiled-Build-main/fritzing-parts/core/sparkfun-sensors-dcm01-.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Ardumoto v13" modelIndex="42923" path="C:/Users/Legion/Desktop/Fritzing-0.9.9.64.pc-Compiled-Build-main/fritzing-parts/core/Ardumoto v13.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-DiscreteSemi-DIODE-SCHOTTKY-_" modelIndex="42925" path="C:/Users/Legion/Desktop/Fritzing-0.9.9.64.pc-Compiled-Build-main/fritzing-parts/core/sparkfun-discretesemi-diode-schottky-_.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+    </instances>
+</module>

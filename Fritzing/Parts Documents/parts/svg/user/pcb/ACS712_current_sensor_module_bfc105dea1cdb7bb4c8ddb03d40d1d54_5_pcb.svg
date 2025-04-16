@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Fritzing (http://www.fritzing.org/) -->
+<svg xmlns="http://www.w3.org/2000/svg" width="0.75in" height="0.3in" gorn="0" viewBox="0 0 54 21.6"  x="0in" y="0in" id="svg2" version="1.2">
+    <desc >
+        <referenceFile >ACS712_current_sensor_module_pcb.svg</referenceFile>
+    </desc>
+    <metadata  id="metadata24">
+        <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+            <cc:Work rdf:about="" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cc="http://creativecommons.org/ns#">
+                <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">image/svg+xml</dc:format>
+                <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/"/>
+            </cc:Work>
+        </rdf:RDF>
+    </metadata>
+    <defs  id="defs22"/>
+    <g gorn="0.3"  id="g4" partID="855015190">
+        <g stroke-width="0" gorn="0.3.0"  id="copper1">
+            <circle cx="3.5999999" cy="3.5999999" stroke-width="1.22399998" gorn="0.3.0.0" r="2.052"  d="M 5.652,3.5999999 C 5.652,4.7332882 4.7332882,5.652 3.5999999,5.652 c -1.1332883,0 -2.052,-0.9187118 -2.052,-2.0520001 0,-1.1332883 0.9187117,-2.052 2.052,-2.052 1.1332883,0 2.0520001,0.9187117 2.0520001,2.052 z" fill="none" connectorname="GND" id="connector0pad" stroke="#f7bd13"/>
+            <circle cx="3.5999999" cy="10.8" stroke-width="1.22399998" gorn="0.3.0.1" r="2.052"  d="m 5.652,10.8 c 0,1.133289 -0.9187118,2.052 -2.0520001,2.052 -1.1332883,0 -2.052,-0.918711 -2.052,-2.052 0,-1.1332881 0.9187117,-2.0519999 2.052,-2.0519999 C 4.7332882,8.7480001 5.652,9.6667119 5.652,10.8 z" fill="none" connectorname="OUT" id="connector1pad" stroke="#f7bd13"/>
+            <circle cx="3.5999999" cy="18" stroke-width="1.22399998" gorn="0.3.0.2" r="2.052"  d="m 5.652,18 c 0,1.133288 -0.9187118,2.052 -2.0520001,2.052 -1.1332883,0 -2.052,-0.918712 -2.052,-2.052 0,-1.133288 0.9187117,-2.052 2.052,-2.052 C 4.7332882,15.948 5.652,16.866712 5.652,18 z" fill="none" connectorname="VCC" id="connector2pad" stroke="#f7bd13"/>
+            <circle cx="50.599998" cy="10.8" stroke-width="1.22399998" gorn="0.3.0.3" r="2.052"  d="m 52.651999,10.8 c 0,1.133289 -0.918712,2.052 -2.052001,2.052 -1.133288,0 -2.052,-0.918711 -2.052,-2.052 0,-1.1332881 0.918712,-2.0519999 2.052,-2.0519999 1.133289,0 2.052001,0.9187118 2.052001,2.0519999 z" fill="none" connectorname="INPUT+" id="connector3pad" stroke="#f7bd13"/>
+            <circle cx="50.599998" cy="18" stroke-width="1.22399998" gorn="0.3.0.4" r="2.052"  d="m 52.651999,18 c 0,1.133288 -0.918712,2.052 -2.052001,2.052 -1.133288,0 -2.052,-0.918712 -2.052,-2.052 0,-1.133288 0.918712,-2.052 2.052,-2.052 1.133289,0 2.052001,0.918712 2.052001,2.052 z" fill="none" connectorname="INPUT-" id="connector4pad" stroke="#f7bd13"/>
+            <circle cx="3.5999999" cy="3.5999999" stroke-width="1.22399998" gorn="0.3.0.5" r="2.052"  d="M 5.652,3.5999999 C 5.652,4.7332882 4.7332882,5.652 3.5999999,5.652 c -1.1332883,0 -2.052,-0.9187118 -2.052,-2.0520001 0,-1.1332883 0.9187117,-2.052 2.052,-2.052 1.1332883,0 2.0520001,0.9187117 2.0520001,2.052 z" fill="none" connectorname="GND" id="circle19" stroke="#f7bd13"/>
+            <circle cx="3.5999999" cy="10.8" stroke-width="1.22399998" gorn="0.3.0.6" r="2.052"  d="m 5.652,10.8 c 0,1.133289 -0.9187118,2.052 -2.0520001,2.052 -1.1332883,0 -2.052,-0.918711 -2.052,-2.052 0,-1.1332881 0.9187117,-2.0519999 2.052,-2.0519999 C 4.7332882,8.7480001 5.652,9.6667119 5.652,10.8 z" fill="none" connectorname="OUT" id="circle15" stroke="#f7bd13"/>
+            <circle cx="3.5999999" cy="18" stroke-width="1.22399998" gorn="0.3.0.7" r="2.052"  d="m 5.652,18 c 0,1.133288 -0.9187118,2.052 -2.0520001,2.052 -1.1332883,0 -2.052,-0.918712 -2.052,-2.052 0,-1.133288 0.9187117,-2.052 2.052,-2.052 C 4.7332882,15.948 5.652,16.866712 5.652,18 z" fill="none" connectorname="VCC" id="circle17" stroke="#f7bd13"/>
+            <circle cx="50.599998" cy="10.8" stroke-width="1.22399998" gorn="0.3.0.8" r="2.052"  d="m 52.651999,10.8 c 0,1.133289 -0.918712,2.052 -2.052001,2.052 -1.133288,0 -2.052,-0.918711 -2.052,-2.052 0,-1.1332881 0.918712,-2.0519999 2.052,-2.0519999 1.133289,0 2.052001,0.9187118 2.052001,2.0519999 z" fill="none" connectorname="INPUT+" id="connector3pin" stroke="#f7bd13"/>
+            <circle cx="50.599998" cy="18" stroke-width="1.22399998" gorn="0.3.0.9" r="2.052"  d="m 52.651999,18 c 0,1.133288 -0.918712,2.052 -2.052001,2.052 -1.133288,0 -2.052,-0.918712 -2.052,-2.052 0,-1.133288 0.918712,-2.052 2.052,-2.052 1.133289,0 2.052001,0.918712 2.052001,2.052 z" fill="none" connectorname="INPUT-" id="connector4pin" stroke="#f7bd13"/>
+        </g>
+    </g>
+    <g gorn="0.4"  id="g17" partID="855015191">
+        <g stroke-width="0" gorn="0.4.0"  id="silkscreen"/>
+    </g>
+</svg>

@@ -1,0 +1,711 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE svg>
+<!-- Generator: Adobe Illustrator 15.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36.85 87.87" xml:space="preserve" id="Layer_2" gorn="0" width="0.511806in" xmlns:xml="http://www.w3.org/XML/1998/namespace" height="1.22042in" enable-background="new 0 0 36.85 87.87"  x="0px" version="1.1" y="0px">
+    <desc >
+        <referenceFile >ACS712_PCB_v2.svg</referenceFile>
+    </desc>
+    <metadata >
+<?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+        <x:xmpmeta xmptk="Adobe XMP Core 5.0-c060 61.134777, 2010/02/12-17:32:00        " xmlns:x="adobe:ns:meta/">
+            <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                <rdf:Description rdf:about="" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                    <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">image/svg+xml</dc:format>
+                    <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">
+                        <rdf:Alt xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                            <rdf:li xml:lang="x-default" xmlns:xml="http://www.w3.org/XML/1998/namespace" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">ACS712_PCB_v2</rdf:li>
+                        </rdf:Alt>
+                    </dc:title>
+                </rdf:Description>
+                <rdf:Description rdf:about="" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                    <xmp:MetadataDate xmlns:xmp="http://ns.adobe.com/xap/1.0/">2016-12-18T02:40:13-06:00</xmp:MetadataDate>
+                    <xmp:ModifyDate xmlns:xmp="http://ns.adobe.com/xap/1.0/">2016-12-18T02:40:13-06:00</xmp:ModifyDate>
+                    <xmp:CreateDate xmlns:xmp="http://ns.adobe.com/xap/1.0/">2016-12-18T02:40:12-06:00</xmp:CreateDate>
+                    <xmp:CreatorTool xmlns:xmp="http://ns.adobe.com/xap/1.0/">Adobe Illustrator CS5.1</xmp:CreatorTool>
+                    <xmp:Thumbnails xmlns:xmp="http://ns.adobe.com/xap/1.0/">
+                        <rdf:Alt xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                            <rdf:li rdf:parseType="Resource" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                                <xmpGImg:width xmlns:xmpGImg="http://ns.adobe.com/xap/1.0/g/img/">108</xmpGImg:width>
+                                <xmpGImg:height xmlns:xmpGImg="http://ns.adobe.com/xap/1.0/g/img/">256</xmpGImg:height>
+                                <xmpGImg:format xmlns:xmpGImg="http://ns.adobe.com/xap/1.0/g/img/">JPEG</xmpGImg:format>
+                                <xmpGImg:image xmlns:xmpGImg="http://ns.adobe.com/xap/1.0/g/img/">/9j/4AAQSkZJRgABAgEASABIAAD/7QAsUGhvdG9zaG9wIDMuMAA4QklNA+0AAAAAABAASAAAAAEA
+AQBIAAAAAQAB/+4ADkFkb2JlAGTAAAAAAf/bAIQABgQEBAUEBgUFBgkGBQYJCwgGBggLDAoKCwoK
+DBAMDAwMDAwQDA4PEA8ODBMTFBQTExwbGxscHx8fHx8fHx8fHwEHBwcNDA0YEBAYGhURFRofHx8f
+Hx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8f/8AAEQgBAABsAwER
+AAIRAQMRAf/EAaIAAAAHAQEBAQEAAAAAAAAAAAQFAwIGAQAHCAkKCwEAAgIDAQEBAQEAAAAAAAAA
+AQACAwQFBgcICQoLEAACAQMDAgQCBgcDBAIGAnMBAgMRBAAFIRIxQVEGE2EicYEUMpGhBxWxQiPB
+UtHhMxZi8CRygvElQzRTkqKyY3PCNUQnk6OzNhdUZHTD0uIIJoMJChgZhJRFRqS0VtNVKBry4/PE
+1OT0ZXWFlaW1xdXl9WZ2hpamtsbW5vY3R1dnd4eXp7fH1+f3OEhYaHiImKi4yNjo+Ck5SVlpeYmZ
+qbnJ2en5KjpKWmp6ipqqusra6voRAAICAQIDBQUEBQYECAMDbQEAAhEDBCESMUEFURNhIgZxgZEy
+obHwFMHR4SNCFVJicvEzJDRDghaSUyWiY7LCB3PSNeJEgxdUkwgJChgZJjZFGidkdFU38qOzwygp
+0+PzhJSktMTU5PRldYWVpbXF1eX1RlZmdoaWprbG1ub2R1dnd4eXp7fH1+f3OEhYaHiImKi4yNjo
++DlJWWl5iZmpucnZ6fkqOkpaanqKmqq6ytrq+v/aAAwDAQACEQMRAD8A9U4q7FXYq7FXYq7FXYq7
+FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7F
+XYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FX
+Yq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXY
+q7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq
+7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7
+FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7F
+XYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FX
+Yq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXY
+q7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq
+7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7
+FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7F
+XYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FX
+Yq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYq7FXYqo3V7aWiB7mVYlOwLGlf
+l45Rn1OPCLnIRHmzx45TNRFrLTU9PvCRbTpKw3Kg70+R3yGn12HN/dyEmWTBOH1CkTmU1IK41rSr
+eX0prqNZBsVrUg+9K0zBzdp6fHLhlOIk3w02SQsRNIuKWKaNZInEkbbq6kEH6RmXjyRmOKJsHuaZ
+RINHm6WWKGNpJXEca7s7EAD6TjkyRgOKRoDvWMSTQ5oS31rSbiX0obqNpDsFrQk+1aVzEw9p6fJL
+hjOJLdPTZIizE0jczmh2KuxV2KuxV2KuxViFvarrnmK7+uMxgtSVSGtNlbiB7dKnOLw4Br9bk8Un
+gx7CPxr9pdzPJ4GGPDzl1a8x6Rb6QLfUNOJgdZAvDkSKkE1FST23GDtns+Gj4c+D0ESqr/X9q6PU
+SzXCe+yda3qM0OgPdRfBLIicT3X1KV+4HN72prJQ0ZyR2kQPhxOFpsIObhPIfoS/RPK+mTabHPdK
+ZpZ158uTALXpShH45rOy+wdPPAJ5BxSmL5nZydVrskZkR2AUvL4k07zDdaUrmS3I5CvYgBgfnQ0O
+V9kCWm1s9ODcOf3H7jRZausmGOSqLfmESahr9rpTOY7egZvckEk/cKDHti9TrIaYmoc/vP3Cgukr
+Hhlk5lU1vyvpkOmSz2qmGaBeYbkx5U61qT+GW9qdg6eGCU8Y4ZQF8zuw0uuySyAS3BTPy5eTXejw
+SzHlIKozHqeJIBP0ZtexdTLNpYylvLl8jTi6zGIZSByTPNq4rsVdirsVdirsVY3qeh6nBqTalpDD
+1JKmWEkCpPX7WxB67985fXdl6jHnOo0x9UuY/t23+92eDVY5Q8PLyHVQGj6/q9zG+rEQ20Zr6YIq
+fGgUnr4nMcdm6zWTB1Ppxx6f2feWz8xhwxIx7yLI72yhu7KS0kFI5F47dqbgj5EZ0+q0sc2I45fS
+R/Z8nWYsphISHNjUNp5v0xDaWgWe3qfSf4CBU125EEfTtnLYtP2npR4eOpw6Hbb5nb7naSyabKeK
+WxTLy/oU9nLLe3r+pez1Boa8QTU7+Jzadj9lTwyllyniyz+xxtXqhMCMPpDvMOhT3skV5ZOI72Dp
+U05AGo37EHHtjsqecxy4jw5Yfb+1dHqhAGMt4lLZrPzfqSC0uwsMFR6r/AOVN9+JJP0bZq8un7T1
+Q8PJUYdTtv8ALn9zkxyabEeKO5ZNYWUVlaRWsX2IhSp6k9ST8znVaTTRwYo448oury5DORkeqvmQ
+1uxV2KuxV2KuxV2KuxV2KuxV2KuxV2KuxV2KuxV2Kv8A/9k=</xmpGImg:image>
+                            </rdf:li>
+                        </rdf:Alt>
+                    </xmp:Thumbnails>
+                </rdf:Description>
+                <rdf:Description rdf:about="" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                    <xmpMM:InstanceID xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/">xmp.iid:72AA2C66FDC4E611BBC9C68FBBD91D55</xmpMM:InstanceID>
+                    <xmpMM:DocumentID xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/">xmp.did:72AA2C66FDC4E611BBC9C68FBBD91D55</xmpMM:DocumentID>
+                    <xmpMM:OriginalDocumentID xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/">uuid:5D20892493BFDB11914A8590D31508C8</xmpMM:OriginalDocumentID>
+                    <xmpMM:RenditionClass xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/">proof:pdf</xmpMM:RenditionClass>
+                    <xmpMM:DerivedFrom xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" rdf:parseType="Resource" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                        <stRef:instanceID xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#">uuid:0d96523c-a41e-4309-a927-d829bf94538e</stRef:instanceID>
+                        <stRef:documentID xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#">xmp.did:829939C6F8C4E611BBC9C68FBBD91D55</stRef:documentID>
+                        <stRef:originalDocumentID xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#">uuid:5D20892493BFDB11914A8590D31508C8</stRef:originalDocumentID>
+                        <stRef:renditionClass xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#">proof:pdf</stRef:renditionClass>
+                    </xmpMM:DerivedFrom>
+                    <xmpMM:History xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/">
+                        <rdf:Seq xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                            <rdf:li rdf:parseType="Resource" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                                <stEvt:action xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#">saved</stEvt:action>
+                                <stEvt:instanceID xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#">xmp.iid:CD022328FB1AE611B92795C1C93D52D2</stEvt:instanceID>
+                                <stEvt:when xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#">2016-05-15T19:14:29-05:00</stEvt:when>
+                                <stEvt:softwareAgent xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#">Adobe Illustrator CS5.1</stEvt:softwareAgent>
+                                <stEvt:changed xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#">/</stEvt:changed>
+                            </rdf:li>
+                            <rdf:li rdf:parseType="Resource" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                                <stEvt:action xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#">saved</stEvt:action>
+                                <stEvt:instanceID xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#">xmp.iid:CE022328FB1AE611B92795C1C93D52D2</stEvt:instanceID>
+                                <stEvt:when xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#">2016-05-15T19:37:22-05:00</stEvt:when>
+                                <stEvt:softwareAgent xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#">Adobe Illustrator CS5.1</stEvt:softwareAgent>
+                                <stEvt:changed xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#">/</stEvt:changed>
+                            </rdf:li>
+                            <rdf:li rdf:parseType="Resource" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                                <stEvt:action xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#">saved</stEvt:action>
+                                <stEvt:instanceID xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#">xmp.iid:CF022328FB1AE611B92795C1C93D52D2</stEvt:instanceID>
+                                <stEvt:when xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#">2016-05-15T19:45:41-05:00</stEvt:when>
+                                <stEvt:softwareAgent xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#">Adobe Illustrator CS5.1</stEvt:softwareAgent>
+                                <stEvt:changed xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#">/</stEvt:changed>
+                            </rdf:li>
+                            <rdf:li rdf:parseType="Resource" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                                <stEvt:action xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#">saved</stEvt:action>
+                                <stEvt:instanceID xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#">xmp.iid:38A27AE51CBDE61199BDA231270F2A86</stEvt:instanceID>
+                                <stEvt:when xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#">2016-12-08T02:04:08-06:00</stEvt:when>
+                                <stEvt:softwareAgent xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#">Adobe Illustrator CS5.1</stEvt:softwareAgent>
+                                <stEvt:changed xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#">/</stEvt:changed>
+                            </rdf:li>
+                            <rdf:li rdf:parseType="Resource" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                                <stEvt:action xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#">saved</stEvt:action>
+                                <stEvt:instanceID xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#">xmp.iid:829939C6F8C4E611BBC9C68FBBD91D55</stEvt:instanceID>
+                                <stEvt:when xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#">2016-12-18T02:37:15-06:00</stEvt:when>
+                                <stEvt:softwareAgent xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#">Adobe Illustrator CS5.1</stEvt:softwareAgent>
+                                <stEvt:changed xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#">/</stEvt:changed>
+                            </rdf:li>
+                            <rdf:li rdf:parseType="Resource" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                                <stEvt:action xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#">saved</stEvt:action>
+                                <stEvt:instanceID xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#">xmp.iid:72AA2C66FDC4E611BBC9C68FBBD91D55</stEvt:instanceID>
+                                <stEvt:when xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#">2016-12-18T02:40:13-06:00</stEvt:when>
+                                <stEvt:softwareAgent xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#">Adobe Illustrator CS5.1</stEvt:softwareAgent>
+                                <stEvt:changed xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#">/</stEvt:changed>
+                            </rdf:li>
+                        </rdf:Seq>
+                    </xmpMM:History>
+                </rdf:Description>
+                <rdf:Description rdf:about="" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                    <illustrator:StartupProfile xmlns:illustrator="http://ns.adobe.com/illustrator/1.0/">Print</illustrator:StartupProfile>
+                </rdf:Description>
+                <rdf:Description rdf:about="" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                    <xmpTPg:HasVisibleOverprint xmlns:xmpTPg="http://ns.adobe.com/xap/1.0/t/pg/">False</xmpTPg:HasVisibleOverprint>
+                    <xmpTPg:HasVisibleTransparency xmlns:xmpTPg="http://ns.adobe.com/xap/1.0/t/pg/">False</xmpTPg:HasVisibleTransparency>
+                    <xmpTPg:NPages xmlns:xmpTPg="http://ns.adobe.com/xap/1.0/t/pg/">1</xmpTPg:NPages>
+                    <xmpTPg:MaxPageSize xmlns:xmpTPg="http://ns.adobe.com/xap/1.0/t/pg/" rdf:parseType="Resource" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                        <stDim:w xmlns:stDim="http://ns.adobe.com/xap/1.0/sType/Dimensions#">12.999723</stDim:w>
+                        <stDim:h xmlns:stDim="http://ns.adobe.com/xap/1.0/sType/Dimensions#">30.998625</stDim:h>
+                        <stDim:unit xmlns:stDim="http://ns.adobe.com/xap/1.0/sType/Dimensions#">Millimeters</stDim:unit>
+                    </xmpTPg:MaxPageSize>
+                    <xmpTPg:PlateNames xmlns:xmpTPg="http://ns.adobe.com/xap/1.0/t/pg/">
+                        <rdf:Seq xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                            <rdf:li xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">Cyan</rdf:li>
+                            <rdf:li xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">Magenta</rdf:li>
+                            <rdf:li xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">Yellow</rdf:li>
+                        </rdf:Seq>
+                    </xmpTPg:PlateNames>
+                    <xmpTPg:SwatchGroups xmlns:xmpTPg="http://ns.adobe.com/xap/1.0/t/pg/">
+                        <rdf:Seq xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                            <rdf:li rdf:parseType="Resource" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                                <xmpG:groupName xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">Default Swatch Group</xmpG:groupName>
+                                <xmpG:groupType xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">0</xmpG:groupType>
+                                <xmpG:Colorants xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">
+                                    <rdf:Seq xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                                        <rdf:li rdf:parseType="Resource" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                                            <xmpG:swatchName xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">White</xmpG:swatchName>
+                                            <xmpG:mode xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">CMYK</xmpG:mode>
+                                            <xmpG:type xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">PROCESS</xmpG:type>
+                                            <xmpG:cyan xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">0.000000</xmpG:cyan>
+                                            <xmpG:magenta xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">0.000000</xmpG:magenta>
+                                            <xmpG:yellow xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">0.000000</xmpG:yellow>
+                                            <xmpG:black xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">0.000000</xmpG:black>
+                                        </rdf:li>
+                                        <rdf:li rdf:parseType="Resource" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                                            <xmpG:swatchName xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">Black</xmpG:swatchName>
+                                            <xmpG:mode xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">CMYK</xmpG:mode>
+                                            <xmpG:type xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">PROCESS</xmpG:type>
+                                            <xmpG:cyan xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">0.000000</xmpG:cyan>
+                                            <xmpG:magenta xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">0.000000</xmpG:magenta>
+                                            <xmpG:yellow xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">0.000000</xmpG:yellow>
+                                            <xmpG:black xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">100.000000</xmpG:black>
+                                        </rdf:li>
+                                        <rdf:li rdf:parseType="Resource" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                                            <xmpG:swatchName xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">CMYK Red</xmpG:swatchName>
+                                            <xmpG:mode xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">CMYK</xmpG:mode>
+                                            <xmpG:type xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">PROCESS</xmpG:type>
+                                            <xmpG:cyan xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">0.000000</xmpG:cyan>
+                                            <xmpG:magenta xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">100.000000</xmpG:magenta>
+                                            <xmpG:yellow xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">100.000000</xmpG:yellow>
+                                            <xmpG:black xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">0.000000</xmpG:black>
+                                        </rdf:li>
+                                        <rdf:li rdf:parseType="Resource" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                                            <xmpG:swatchName xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">CMYK Yellow</xmpG:swatchName>
+                                            <xmpG:mode xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">CMYK</xmpG:mode>
+                                            <xmpG:type xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">PROCESS</xmpG:type>
+                                            <xmpG:cyan xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">0.000000</xmpG:cyan>
+                                            <xmpG:magenta xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">0.000000</xmpG:magenta>
+                                            <xmpG:yellow xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">100.000000</xmpG:yellow>
+                                            <xmpG:black xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">0.000000</xmpG:black>
+                                        </rdf:li>
+                                        <rdf:li rdf:parseType="Resource" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                                            <xmpG:swatchName xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">CMYK Green</xmpG:swatchName>
+                                            <xmpG:mode xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">CMYK</xmpG:mode>
+                                            <xmpG:type xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">PROCESS</xmpG:type>
+                                            <xmpG:cyan xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">100.000000</xmpG:cyan>
+                                            <xmpG:magenta xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">0.000000</xmpG:magenta>
+                                            <xmpG:yellow xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">100.000000</xmpG:yellow>
+                                            <xmpG:black xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">0.000000</xmpG:black>
+                                        </rdf:li>
+                                        <rdf:li rdf:parseType="Resource" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                                            <xmpG:swatchName xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">CMYK Cyan</xmpG:swatchName>
+                                            <xmpG:mode xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">CMYK</xmpG:mode>
+                                            <xmpG:type xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">PROCESS</xmpG:type>
+                                            <xmpG:cyan xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">100.000000</xmpG:cyan>
+                                            <xmpG:magenta xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">0.000000</xmpG:magenta>
+                                            <xmpG:yellow xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">0.000000</xmpG:yellow>
+                                            <xmpG:black xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">0.000000</xmpG:black>
+                                        </rdf:li>
+                                        <rdf:li rdf:parseType="Resource" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                                            <xmpG:swatchName xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">CMYK Blue</xmpG:swatchName>
+                                            <xmpG:mode xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">CMYK</xmpG:mode>
+                                            <xmpG:type xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">PROCESS</xmpG:type>
+                                            <xmpG:cyan xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">100.000000</xmpG:cyan>
+                                            <xmpG:magenta xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">100.000000</xmpG:magenta>
+                                            <xmpG:yellow xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">0.000000</xmpG:yellow>
+                                            <xmpG:black xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">0.000000</xmpG:black>
+                                        </rdf:li>
+                                        <rdf:li rdf:parseType="Resource" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                                            <xmpG:swatchName xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">CMYK Magenta</xmpG:swatchName>
+                                            <xmpG:mode xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">CMYK</xmpG:mode>
+                                            <xmpG:type xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">PROCESS</xmpG:type>
+                                            <xmpG:cyan xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">0.000000</xmpG:cyan>
+                                            <xmpG:magenta xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">100.000000</xmpG:magenta>
+                                            <xmpG:yellow xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">0.000000</xmpG:yellow>
+                                            <xmpG:black xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">0.000000</xmpG:black>
+                                        </rdf:li>
+                                        <rdf:li rdf:parseType="Resource" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                                            <xmpG:swatchName xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">C=15 M=100 Y=90 K=10</xmpG:swatchName>
+                                            <xmpG:mode xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">CMYK</xmpG:mode>
+                                            <xmpG:type xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">PROCESS</xmpG:type>
+                                            <xmpG:cyan xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">14.999998</xmpG:cyan>
+                                            <xmpG:magenta xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">100.000000</xmpG:magenta>
+                                            <xmpG:yellow xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">90.000004</xmpG:yellow>
+                                            <xmpG:black xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">10.000002</xmpG:black>
+                                        </rdf:li>
+                                        <rdf:li rdf:parseType="Resource" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                                            <xmpG:swatchName xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">C=0 M=90 Y=85 K=0</xmpG:swatchName>
+                                            <xmpG:mode xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">CMYK</xmpG:mode>
+                                            <xmpG:type xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">PROCESS</xmpG:type>
+                                            <xmpG:cyan xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">0.000000</xmpG:cyan>
+                                            <xmpG:magenta xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">90.000004</xmpG:magenta>
+                                            <xmpG:yellow xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">84.999996</xmpG:yellow>
+                                            <xmpG:black xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">0.000000</xmpG:black>
+                                        </rdf:li>
+                                        <rdf:li rdf:parseType="Resource" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                                            <xmpG:swatchName xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">C=0 M=80 Y=95 K=0</xmpG:swatchName>
+                                            <xmpG:mode xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">CMYK</xmpG:mode>
+                                            <xmpG:type xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">PROCESS</xmpG:type>
+                                            <xmpG:cyan xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">0.000000</xmpG:cyan>
+                                            <xmpG:magenta xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">80.000001</xmpG:magenta>
+                                            <xmpG:yellow xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">94.999999</xmpG:yellow>
+                                            <xmpG:black xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">0.000000</xmpG:black>
+                                        </rdf:li>
+                                        <rdf:li rdf:parseType="Resource" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                                            <xmpG:swatchName xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">C=0 M=50 Y=100 K=0</xmpG:swatchName>
+                                            <xmpG:mode xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">CMYK</xmpG:mode>
+                                            <xmpG:type xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">PROCESS</xmpG:type>
+                                            <xmpG:cyan xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">0.000000</xmpG:cyan>
+                                            <xmpG:magenta xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">50.000000</xmpG:magenta>
+                                            <xmpG:yellow xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">100.000000</xmpG:yellow>
+                                            <xmpG:black xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">0.000000</xmpG:black>
+                                        </rdf:li>
+                                        <rdf:li rdf:parseType="Resource" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                                            <xmpG:swatchName xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">C=0 M=35 Y=85 K=0</xmpG:swatchName>
+                                            <xmpG:mode xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">CMYK</xmpG:mode>
+                                            <xmpG:type xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">PROCESS</xmpG:type>
+                                            <xmpG:cyan xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">0.000000</xmpG:cyan>
+                                            <xmpG:magenta xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">35.000002</xmpG:magenta>
+                                            <xmpG:yellow xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">84.999996</xmpG:yellow>
+                                            <xmpG:black xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">0.000000</xmpG:black>
+                                        </rdf:li>
+                                        <rdf:li rdf:parseType="Resource" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                                            <xmpG:swatchName xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">C=5 M=0 Y=90 K=0</xmpG:swatchName>
+                                            <xmpG:mode xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">CMYK</xmpG:mode>
+                                            <xmpG:type xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">PROCESS</xmpG:type>
+                                            <xmpG:cyan xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">5.000001</xmpG:cyan>
+                                            <xmpG:magenta xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">0.000000</xmpG:magenta>
+                                            <xmpG:yellow xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">90.000004</xmpG:yellow>
+                                            <xmpG:black xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">0.000000</xmpG:black>
+                                        </rdf:li>
+                                        <rdf:li rdf:parseType="Resource" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                                            <xmpG:swatchName xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">C=20 M=0 Y=100 K=0</xmpG:swatchName>
+                                            <xmpG:mode xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">CMYK</xmpG:mode>
+                                            <xmpG:type xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">PROCESS</xmpG:type>
+                                            <xmpG:cyan xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">19.999999</xmpG:cyan>
+                                            <xmpG:magenta xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">0.000000</xmpG:magenta>
+                                            <xmpG:yellow xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">100.000000</xmpG:yellow>
+                                            <xmpG:black xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">0.000000</xmpG:black>
+                                        </rdf:li>
+                                        <rdf:li rdf:parseType="Resource" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                                            <xmpG:swatchName xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">C=50 M=0 Y=100 K=0</xmpG:swatchName>
+                                            <xmpG:mode xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">CMYK</xmpG:mode>
+                                            <xmpG:type xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">PROCESS</xmpG:type>
+                                            <xmpG:cyan xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">50.000000</xmpG:cyan>
+                                            <xmpG:magenta xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">0.000000</xmpG:magenta>
+                                            <xmpG:yellow xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">100.000000</xmpG:yellow>
+                                            <xmpG:black xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">0.000000</xmpG:black>
+                                        </rdf:li>
+                                        <rdf:li rdf:parseType="Resource" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                                            <xmpG:swatchName xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">C=75 M=0 Y=100 K=0</xmpG:swatchName>
+                                            <xmpG:mode xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">CMYK</xmpG:mode>
+                                            <xmpG:type xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">PROCESS</xmpG:type>
+                                            <xmpG:cyan xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">75.000000</xmpG:cyan>
+                                            <xmpG:magenta xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">0.000000</xmpG:magenta>
+                                            <xmpG:yellow xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">100.000000</xmpG:yellow>
+                                            <xmpG:black xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">0.000000</xmpG:black>
+                                        </rdf:li>
+                                        <rdf:li rdf:parseType="Resource" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                                            <xmpG:swatchName xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">C=85 M=10 Y=100 K=10</xmpG:swatchName>
+                                            <xmpG:mode xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">CMYK</xmpG:mode>
+                                            <xmpG:type xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">PROCESS</xmpG:type>
+                                            <xmpG:cyan xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">84.999996</xmpG:cyan>
+                                            <xmpG:magenta xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">10.000002</xmpG:magenta>
+                                            <xmpG:yellow xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">100.000000</xmpG:yellow>
+                                            <xmpG:black xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">10.000002</xmpG:black>
+                                        </rdf:li>
+                                        <rdf:li rdf:parseType="Resource" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                                            <xmpG:swatchName xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">C=90 M=30 Y=95 K=30</xmpG:swatchName>
+                                            <xmpG:mode xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">CMYK</xmpG:mode>
+                                            <xmpG:type xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">PROCESS</xmpG:type>
+                                            <xmpG:cyan xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">90.000004</xmpG:cyan>
+                                            <xmpG:magenta xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">30.000001</xmpG:magenta>
+                                            <xmpG:yellow xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">94.999999</xmpG:yellow>
+                                            <xmpG:black xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">30.000001</xmpG:black>
+                                        </rdf:li>
+                                        <rdf:li rdf:parseType="Resource" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                                            <xmpG:swatchName xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">C=75 M=0 Y=75 K=0</xmpG:swatchName>
+                                            <xmpG:mode xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">CMYK</xmpG:mode>
+                                            <xmpG:type xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">PROCESS</xmpG:type>
+                                            <xmpG:cyan xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">75.000000</xmpG:cyan>
+                                            <xmpG:magenta xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">0.000000</xmpG:magenta>
+                                            <xmpG:yellow xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">75.000000</xmpG:yellow>
+                                            <xmpG:black xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">0.000000</xmpG:black>
+                                        </rdf:li>
+                                        <rdf:li rdf:parseType="Resource" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                                            <xmpG:swatchName xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">C=80 M=10 Y=45 K=0</xmpG:swatchName>
+                                            <xmpG:mode xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">CMYK</xmpG:mode>
+                                            <xmpG:type xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">PROCESS</xmpG:type>
+                                            <xmpG:cyan xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">80.000001</xmpG:cyan>
+                                            <xmpG:magenta xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">10.000002</xmpG:magenta>
+                                            <xmpG:yellow xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">44.999999</xmpG:yellow>
+                                            <xmpG:black xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">0.000000</xmpG:black>
+                                        </rdf:li>
+                                        <rdf:li rdf:parseType="Resource" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                                            <xmpG:swatchName xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">C=70 M=15 Y=0 K=0</xmpG:swatchName>
+                                            <xmpG:mode xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">CMYK</xmpG:mode>
+                                            <xmpG:type xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">PROCESS</xmpG:type>
+                                            <xmpG:cyan xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">69.999999</xmpG:cyan>
+                                            <xmpG:magenta xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">14.999998</xmpG:magenta>
+                                            <xmpG:yellow xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">0.000000</xmpG:yellow>
+                                            <xmpG:black xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">0.000000</xmpG:black>
+                                        </rdf:li>
+                                        <rdf:li rdf:parseType="Resource" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                                            <xmpG:swatchName xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">C=85 M=50 Y=0 K=0</xmpG:swatchName>
+                                            <xmpG:mode xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">CMYK</xmpG:mode>
+                                            <xmpG:type xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">PROCESS</xmpG:type>
+                                            <xmpG:cyan xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">84.999996</xmpG:cyan>
+                                            <xmpG:magenta xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">50.000000</xmpG:magenta>
+                                            <xmpG:yellow xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">0.000000</xmpG:yellow>
+                                            <xmpG:black xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">0.000000</xmpG:black>
+                                        </rdf:li>
+                                        <rdf:li rdf:parseType="Resource" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                                            <xmpG:swatchName xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">C=100 M=95 Y=5 K=0</xmpG:swatchName>
+                                            <xmpG:mode xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">CMYK</xmpG:mode>
+                                            <xmpG:type xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">PROCESS</xmpG:type>
+                                            <xmpG:cyan xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">100.000000</xmpG:cyan>
+                                            <xmpG:magenta xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">94.999999</xmpG:magenta>
+                                            <xmpG:yellow xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">5.000001</xmpG:yellow>
+                                            <xmpG:black xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">0.000000</xmpG:black>
+                                        </rdf:li>
+                                        <rdf:li rdf:parseType="Resource" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                                            <xmpG:swatchName xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">C=100 M=100 Y=25 K=25</xmpG:swatchName>
+                                            <xmpG:mode xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">CMYK</xmpG:mode>
+                                            <xmpG:type xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">PROCESS</xmpG:type>
+                                            <xmpG:cyan xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">100.000000</xmpG:cyan>
+                                            <xmpG:magenta xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">100.000000</xmpG:magenta>
+                                            <xmpG:yellow xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">25.000000</xmpG:yellow>
+                                            <xmpG:black xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">25.000000</xmpG:black>
+                                        </rdf:li>
+                                        <rdf:li rdf:parseType="Resource" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                                            <xmpG:swatchName xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">C=75 M=100 Y=0 K=0</xmpG:swatchName>
+                                            <xmpG:mode xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">CMYK</xmpG:mode>
+                                            <xmpG:type xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">PROCESS</xmpG:type>
+                                            <xmpG:cyan xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">75.000000</xmpG:cyan>
+                                            <xmpG:magenta xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">100.000000</xmpG:magenta>
+                                            <xmpG:yellow xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">0.000000</xmpG:yellow>
+                                            <xmpG:black xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">0.000000</xmpG:black>
+                                        </rdf:li>
+                                        <rdf:li rdf:parseType="Resource" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                                            <xmpG:swatchName xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">C=50 M=100 Y=0 K=0</xmpG:swatchName>
+                                            <xmpG:mode xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">CMYK</xmpG:mode>
+                                            <xmpG:type xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">PROCESS</xmpG:type>
+                                            <xmpG:cyan xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">50.000000</xmpG:cyan>
+                                            <xmpG:magenta xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">100.000000</xmpG:magenta>
+                                            <xmpG:yellow xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">0.000000</xmpG:yellow>
+                                            <xmpG:black xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">0.000000</xmpG:black>
+                                        </rdf:li>
+                                        <rdf:li rdf:parseType="Resource" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                                            <xmpG:swatchName xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">C=35 M=100 Y=35 K=10</xmpG:swatchName>
+                                            <xmpG:mode xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">CMYK</xmpG:mode>
+                                            <xmpG:type xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">PROCESS</xmpG:type>
+                                            <xmpG:cyan xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">35.000002</xmpG:cyan>
+                                            <xmpG:magenta xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">100.000000</xmpG:magenta>
+                                            <xmpG:yellow xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">35.000002</xmpG:yellow>
+                                            <xmpG:black xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">10.000002</xmpG:black>
+                                        </rdf:li>
+                                        <rdf:li rdf:parseType="Resource" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                                            <xmpG:swatchName xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">C=10 M=100 Y=50 K=0</xmpG:swatchName>
+                                            <xmpG:mode xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">CMYK</xmpG:mode>
+                                            <xmpG:type xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">PROCESS</xmpG:type>
+                                            <xmpG:cyan xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">10.000002</xmpG:cyan>
+                                            <xmpG:magenta xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">100.000000</xmpG:magenta>
+                                            <xmpG:yellow xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">50.000000</xmpG:yellow>
+                                            <xmpG:black xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">0.000000</xmpG:black>
+                                        </rdf:li>
+                                        <rdf:li rdf:parseType="Resource" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                                            <xmpG:swatchName xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">C=0 M=95 Y=20 K=0</xmpG:swatchName>
+                                            <xmpG:mode xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">CMYK</xmpG:mode>
+                                            <xmpG:type xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">PROCESS</xmpG:type>
+                                            <xmpG:cyan xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">0.000000</xmpG:cyan>
+                                            <xmpG:magenta xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">94.999999</xmpG:magenta>
+                                            <xmpG:yellow xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">19.999999</xmpG:yellow>
+                                            <xmpG:black xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">0.000000</xmpG:black>
+                                        </rdf:li>
+                                        <rdf:li rdf:parseType="Resource" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                                            <xmpG:swatchName xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">C=25 M=25 Y=40 K=0</xmpG:swatchName>
+                                            <xmpG:mode xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">CMYK</xmpG:mode>
+                                            <xmpG:type xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">PROCESS</xmpG:type>
+                                            <xmpG:cyan xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">25.000000</xmpG:cyan>
+                                            <xmpG:magenta xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">25.000000</xmpG:magenta>
+                                            <xmpG:yellow xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">39.999998</xmpG:yellow>
+                                            <xmpG:black xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">0.000000</xmpG:black>
+                                        </rdf:li>
+                                        <rdf:li rdf:parseType="Resource" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                                            <xmpG:swatchName xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">C=40 M=45 Y=50 K=5</xmpG:swatchName>
+                                            <xmpG:mode xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">CMYK</xmpG:mode>
+                                            <xmpG:type xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">PROCESS</xmpG:type>
+                                            <xmpG:cyan xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">39.999998</xmpG:cyan>
+                                            <xmpG:magenta xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">44.999999</xmpG:magenta>
+                                            <xmpG:yellow xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">50.000000</xmpG:yellow>
+                                            <xmpG:black xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">5.000001</xmpG:black>
+                                        </rdf:li>
+                                        <rdf:li rdf:parseType="Resource" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                                            <xmpG:swatchName xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">C=50 M=50 Y=60 K=25</xmpG:swatchName>
+                                            <xmpG:mode xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">CMYK</xmpG:mode>
+                                            <xmpG:type xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">PROCESS</xmpG:type>
+                                            <xmpG:cyan xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">50.000000</xmpG:cyan>
+                                            <xmpG:magenta xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">50.000000</xmpG:magenta>
+                                            <xmpG:yellow xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">60.000002</xmpG:yellow>
+                                            <xmpG:black xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">25.000000</xmpG:black>
+                                        </rdf:li>
+                                        <rdf:li rdf:parseType="Resource" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                                            <xmpG:swatchName xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">C=55 M=60 Y=65 K=40</xmpG:swatchName>
+                                            <xmpG:mode xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">CMYK</xmpG:mode>
+                                            <xmpG:type xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">PROCESS</xmpG:type>
+                                            <xmpG:cyan xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">55.000001</xmpG:cyan>
+                                            <xmpG:magenta xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">60.000002</xmpG:magenta>
+                                            <xmpG:yellow xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">64.999998</xmpG:yellow>
+                                            <xmpG:black xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">39.999998</xmpG:black>
+                                        </rdf:li>
+                                        <rdf:li rdf:parseType="Resource" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                                            <xmpG:swatchName xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">C=25 M=40 Y=65 K=0</xmpG:swatchName>
+                                            <xmpG:mode xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">CMYK</xmpG:mode>
+                                            <xmpG:type xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">PROCESS</xmpG:type>
+                                            <xmpG:cyan xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">25.000000</xmpG:cyan>
+                                            <xmpG:magenta xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">39.999998</xmpG:magenta>
+                                            <xmpG:yellow xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">64.999998</xmpG:yellow>
+                                            <xmpG:black xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">0.000000</xmpG:black>
+                                        </rdf:li>
+                                        <rdf:li rdf:parseType="Resource" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                                            <xmpG:swatchName xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">C=30 M=50 Y=75 K=10</xmpG:swatchName>
+                                            <xmpG:mode xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">CMYK</xmpG:mode>
+                                            <xmpG:type xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">PROCESS</xmpG:type>
+                                            <xmpG:cyan xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">30.000001</xmpG:cyan>
+                                            <xmpG:magenta xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">50.000000</xmpG:magenta>
+                                            <xmpG:yellow xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">75.000000</xmpG:yellow>
+                                            <xmpG:black xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">10.000002</xmpG:black>
+                                        </rdf:li>
+                                        <rdf:li rdf:parseType="Resource" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                                            <xmpG:swatchName xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">C=35 M=60 Y=80 K=25</xmpG:swatchName>
+                                            <xmpG:mode xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">CMYK</xmpG:mode>
+                                            <xmpG:type xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">PROCESS</xmpG:type>
+                                            <xmpG:cyan xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">35.000002</xmpG:cyan>
+                                            <xmpG:magenta xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">60.000002</xmpG:magenta>
+                                            <xmpG:yellow xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">80.000001</xmpG:yellow>
+                                            <xmpG:black xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">25.000000</xmpG:black>
+                                        </rdf:li>
+                                        <rdf:li rdf:parseType="Resource" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                                            <xmpG:swatchName xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">C=40 M=65 Y=90 K=35</xmpG:swatchName>
+                                            <xmpG:mode xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">CMYK</xmpG:mode>
+                                            <xmpG:type xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">PROCESS</xmpG:type>
+                                            <xmpG:cyan xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">39.999998</xmpG:cyan>
+                                            <xmpG:magenta xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">64.999998</xmpG:magenta>
+                                            <xmpG:yellow xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">90.000004</xmpG:yellow>
+                                            <xmpG:black xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">35.000002</xmpG:black>
+                                        </rdf:li>
+                                        <rdf:li rdf:parseType="Resource" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                                            <xmpG:swatchName xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">C=40 M=70 Y=100 K=50</xmpG:swatchName>
+                                            <xmpG:mode xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">CMYK</xmpG:mode>
+                                            <xmpG:type xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">PROCESS</xmpG:type>
+                                            <xmpG:cyan xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">39.999998</xmpG:cyan>
+                                            <xmpG:magenta xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">69.999999</xmpG:magenta>
+                                            <xmpG:yellow xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">100.000000</xmpG:yellow>
+                                            <xmpG:black xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">50.000000</xmpG:black>
+                                        </rdf:li>
+                                        <rdf:li rdf:parseType="Resource" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                                            <xmpG:swatchName xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">C=50 M=70 Y=80 K=70</xmpG:swatchName>
+                                            <xmpG:mode xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">CMYK</xmpG:mode>
+                                            <xmpG:type xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">PROCESS</xmpG:type>
+                                            <xmpG:cyan xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">50.000000</xmpG:cyan>
+                                            <xmpG:magenta xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">69.999999</xmpG:magenta>
+                                            <xmpG:yellow xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">80.000001</xmpG:yellow>
+                                            <xmpG:black xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">69.999999</xmpG:black>
+                                        </rdf:li>
+                                    </rdf:Seq>
+                                </xmpG:Colorants>
+                            </rdf:li>
+                            <rdf:li rdf:parseType="Resource" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                                <xmpG:groupName xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">Grays</xmpG:groupName>
+                                <xmpG:groupType xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">1</xmpG:groupType>
+                                <xmpG:Colorants xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">
+                                    <rdf:Seq xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                                        <rdf:li rdf:parseType="Resource" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                                            <xmpG:swatchName xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">C=0 M=0 Y=0 K=100</xmpG:swatchName>
+                                            <xmpG:mode xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">CMYK</xmpG:mode>
+                                            <xmpG:type xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">PROCESS</xmpG:type>
+                                            <xmpG:cyan xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">0.000000</xmpG:cyan>
+                                            <xmpG:magenta xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">0.000000</xmpG:magenta>
+                                            <xmpG:yellow xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">0.000000</xmpG:yellow>
+                                            <xmpG:black xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">100.000000</xmpG:black>
+                                        </rdf:li>
+                                        <rdf:li rdf:parseType="Resource" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                                            <xmpG:swatchName xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">C=0 M=0 Y=0 K=90</xmpG:swatchName>
+                                            <xmpG:mode xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">CMYK</xmpG:mode>
+                                            <xmpG:type xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">PROCESS</xmpG:type>
+                                            <xmpG:cyan xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">0.000000</xmpG:cyan>
+                                            <xmpG:magenta xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">0.000000</xmpG:magenta>
+                                            <xmpG:yellow xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">0.000000</xmpG:yellow>
+                                            <xmpG:black xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">89.999402</xmpG:black>
+                                        </rdf:li>
+                                        <rdf:li rdf:parseType="Resource" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                                            <xmpG:swatchName xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">C=0 M=0 Y=0 K=80</xmpG:swatchName>
+                                            <xmpG:mode xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">CMYK</xmpG:mode>
+                                            <xmpG:type xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">PROCESS</xmpG:type>
+                                            <xmpG:cyan xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">0.000000</xmpG:cyan>
+                                            <xmpG:magenta xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">0.000000</xmpG:magenta>
+                                            <xmpG:yellow xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">0.000000</xmpG:yellow>
+                                            <xmpG:black xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">79.998797</xmpG:black>
+                                        </rdf:li>
+                                        <rdf:li rdf:parseType="Resource" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                                            <xmpG:swatchName xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">C=0 M=0 Y=0 K=70</xmpG:swatchName>
+                                            <xmpG:mode xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">CMYK</xmpG:mode>
+                                            <xmpG:type xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">PROCESS</xmpG:type>
+                                            <xmpG:cyan xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">0.000000</xmpG:cyan>
+                                            <xmpG:magenta xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">0.000000</xmpG:magenta>
+                                            <xmpG:yellow xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">0.000000</xmpG:yellow>
+                                            <xmpG:black xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">69.999701</xmpG:black>
+                                        </rdf:li>
+                                        <rdf:li rdf:parseType="Resource" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                                            <xmpG:swatchName xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">C=0 M=0 Y=0 K=60</xmpG:swatchName>
+                                            <xmpG:mode xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">CMYK</xmpG:mode>
+                                            <xmpG:type xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">PROCESS</xmpG:type>
+                                            <xmpG:cyan xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">0.000000</xmpG:cyan>
+                                            <xmpG:magenta xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">0.000000</xmpG:magenta>
+                                            <xmpG:yellow xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">0.000000</xmpG:yellow>
+                                            <xmpG:black xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">59.999102</xmpG:black>
+                                        </rdf:li>
+                                        <rdf:li rdf:parseType="Resource" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                                            <xmpG:swatchName xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">C=0 M=0 Y=0 K=50</xmpG:swatchName>
+                                            <xmpG:mode xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">CMYK</xmpG:mode>
+                                            <xmpG:type xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">PROCESS</xmpG:type>
+                                            <xmpG:cyan xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">0.000000</xmpG:cyan>
+                                            <xmpG:magenta xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">0.000000</xmpG:magenta>
+                                            <xmpG:yellow xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">0.000000</xmpG:yellow>
+                                            <xmpG:black xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">50.000000</xmpG:black>
+                                        </rdf:li>
+                                        <rdf:li rdf:parseType="Resource" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                                            <xmpG:swatchName xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">C=0 M=0 Y=0 K=40</xmpG:swatchName>
+                                            <xmpG:mode xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">CMYK</xmpG:mode>
+                                            <xmpG:type xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">PROCESS</xmpG:type>
+                                            <xmpG:cyan xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">0.000000</xmpG:cyan>
+                                            <xmpG:magenta xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">0.000000</xmpG:magenta>
+                                            <xmpG:yellow xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">0.000000</xmpG:yellow>
+                                            <xmpG:black xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">39.999402</xmpG:black>
+                                        </rdf:li>
+                                        <rdf:li rdf:parseType="Resource" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                                            <xmpG:swatchName xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">C=0 M=0 Y=0 K=30</xmpG:swatchName>
+                                            <xmpG:mode xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">CMYK</xmpG:mode>
+                                            <xmpG:type xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">PROCESS</xmpG:type>
+                                            <xmpG:cyan xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">0.000000</xmpG:cyan>
+                                            <xmpG:magenta xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">0.000000</xmpG:magenta>
+                                            <xmpG:yellow xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">0.000000</xmpG:yellow>
+                                            <xmpG:black xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">29.998803</xmpG:black>
+                                        </rdf:li>
+                                        <rdf:li rdf:parseType="Resource" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                                            <xmpG:swatchName xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">C=0 M=0 Y=0 K=20</xmpG:swatchName>
+                                            <xmpG:mode xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">CMYK</xmpG:mode>
+                                            <xmpG:type xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">PROCESS</xmpG:type>
+                                            <xmpG:cyan xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">0.000000</xmpG:cyan>
+                                            <xmpG:magenta xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">0.000000</xmpG:magenta>
+                                            <xmpG:yellow xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">0.000000</xmpG:yellow>
+                                            <xmpG:black xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">19.999701</xmpG:black>
+                                        </rdf:li>
+                                        <rdf:li rdf:parseType="Resource" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                                            <xmpG:swatchName xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">C=0 M=0 Y=0 K=10</xmpG:swatchName>
+                                            <xmpG:mode xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">CMYK</xmpG:mode>
+                                            <xmpG:type xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">PROCESS</xmpG:type>
+                                            <xmpG:cyan xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">0.000000</xmpG:cyan>
+                                            <xmpG:magenta xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">0.000000</xmpG:magenta>
+                                            <xmpG:yellow xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">0.000000</xmpG:yellow>
+                                            <xmpG:black xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">9.999102</xmpG:black>
+                                        </rdf:li>
+                                        <rdf:li rdf:parseType="Resource" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                                            <xmpG:swatchName xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">C=0 M=0 Y=0 K=5</xmpG:swatchName>
+                                            <xmpG:mode xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">CMYK</xmpG:mode>
+                                            <xmpG:type xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">PROCESS</xmpG:type>
+                                            <xmpG:cyan xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">0.000000</xmpG:cyan>
+                                            <xmpG:magenta xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">0.000000</xmpG:magenta>
+                                            <xmpG:yellow xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">0.000000</xmpG:yellow>
+                                            <xmpG:black xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">4.998803</xmpG:black>
+                                        </rdf:li>
+                                    </rdf:Seq>
+                                </xmpG:Colorants>
+                            </rdf:li>
+                            <rdf:li rdf:parseType="Resource" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                                <xmpG:groupName xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">Brights</xmpG:groupName>
+                                <xmpG:groupType xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">1</xmpG:groupType>
+                                <xmpG:Colorants xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">
+                                    <rdf:Seq xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                                        <rdf:li rdf:parseType="Resource" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                                            <xmpG:swatchName xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">C=0 M=100 Y=100 K=0</xmpG:swatchName>
+                                            <xmpG:mode xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">CMYK</xmpG:mode>
+                                            <xmpG:type xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">PROCESS</xmpG:type>
+                                            <xmpG:cyan xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">0.000000</xmpG:cyan>
+                                            <xmpG:magenta xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">100.000000</xmpG:magenta>
+                                            <xmpG:yellow xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">100.000000</xmpG:yellow>
+                                            <xmpG:black xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">0.000000</xmpG:black>
+                                        </rdf:li>
+                                        <rdf:li rdf:parseType="Resource" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                                            <xmpG:swatchName xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">C=0 M=75 Y=100 K=0</xmpG:swatchName>
+                                            <xmpG:mode xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">CMYK</xmpG:mode>
+                                            <xmpG:type xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">PROCESS</xmpG:type>
+                                            <xmpG:cyan xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">0.000000</xmpG:cyan>
+                                            <xmpG:magenta xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">75.000000</xmpG:magenta>
+                                            <xmpG:yellow xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">100.000000</xmpG:yellow>
+                                            <xmpG:black xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">0.000000</xmpG:black>
+                                        </rdf:li>
+                                        <rdf:li rdf:parseType="Resource" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                                            <xmpG:swatchName xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">C=0 M=10 Y=95 K=0</xmpG:swatchName>
+                                            <xmpG:mode xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">CMYK</xmpG:mode>
+                                            <xmpG:type xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">PROCESS</xmpG:type>
+                                            <xmpG:cyan xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">0.000000</xmpG:cyan>
+                                            <xmpG:magenta xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">10.000002</xmpG:magenta>
+                                            <xmpG:yellow xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">94.999999</xmpG:yellow>
+                                            <xmpG:black xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">0.000000</xmpG:black>
+                                        </rdf:li>
+                                        <rdf:li rdf:parseType="Resource" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                                            <xmpG:swatchName xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">C=85 M=10 Y=100 K=0</xmpG:swatchName>
+                                            <xmpG:mode xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">CMYK</xmpG:mode>
+                                            <xmpG:type xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">PROCESS</xmpG:type>
+                                            <xmpG:cyan xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">84.999996</xmpG:cyan>
+                                            <xmpG:magenta xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">10.000002</xmpG:magenta>
+                                            <xmpG:yellow xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">100.000000</xmpG:yellow>
+                                            <xmpG:black xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">0.000000</xmpG:black>
+                                        </rdf:li>
+                                        <rdf:li rdf:parseType="Resource" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                                            <xmpG:swatchName xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">C=100 M=90 Y=0 K=0</xmpG:swatchName>
+                                            <xmpG:mode xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">CMYK</xmpG:mode>
+                                            <xmpG:type xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">PROCESS</xmpG:type>
+                                            <xmpG:cyan xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">100.000000</xmpG:cyan>
+                                            <xmpG:magenta xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">90.000004</xmpG:magenta>
+                                            <xmpG:yellow xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">0.000000</xmpG:yellow>
+                                            <xmpG:black xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">0.000000</xmpG:black>
+                                        </rdf:li>
+                                        <rdf:li rdf:parseType="Resource" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                                            <xmpG:swatchName xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">C=60 M=90 Y=0 K=0</xmpG:swatchName>
+                                            <xmpG:mode xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">CMYK</xmpG:mode>
+                                            <xmpG:type xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">PROCESS</xmpG:type>
+                                            <xmpG:cyan xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">60.000002</xmpG:cyan>
+                                            <xmpG:magenta xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">90.000004</xmpG:magenta>
+                                            <xmpG:yellow xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">0.003099</xmpG:yellow>
+                                            <xmpG:black xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/">0.003099</xmpG:black>
+                                        </rdf:li>
+                                    </rdf:Seq>
+                                </xmpG:Colorants>
+                            </rdf:li>
+                        </rdf:Seq>
+                    </xmpTPg:SwatchGroups>
+                </rdf:Description>
+                <rdf:Description rdf:about="" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+                    <pdf:Producer xmlns:pdf="http://ns.adobe.com/pdf/1.3/">Adobe PDF library 9.90</pdf:Producer>
+                </rdf:Description>
+            </rdf:RDF>
+        </x:xmpmeta>
+<?xpacket end="w"?>
+    </metadata>
+    <rect stroke-miterlimit="10" id="silkscreen" stroke="#FFFFFF" gorn="0.2" width="36.85" stroke-width="0.5" height="87.87" fill="none" />
+    <g id="copper1" gorn="0.3" >
+        <g id="copper0" gorn="0.3.0" >
+            <circle stroke-miterlimit="10" id="connector8pad" stroke="#F5BD18" gorn="0.3.0.0" r="2.126" stroke-width="1.25" cx="11.051" cy="82" fill="none" />
+            <circle stroke-miterlimit="10" id="connector9pad" stroke="#F5BD18" gorn="0.3.0.1" r="2.126" stroke-width="1.25" cx="18.251" cy="82" fill="none" />
+            <circle stroke-miterlimit="10" id="connector10pad" stroke="#F5BD18" gorn="0.3.0.2" r="2.126" stroke-width="1.25" cx="25.451" cy="82" fill="none" />
+        </g>
+    </g>
+</svg>
